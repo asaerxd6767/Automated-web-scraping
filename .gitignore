@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific generated artifacts
+data/raw/*.jsonl
+data/output/*.csv
+data/output/*.json
+.DS_Store
